@@ -1,14 +1,23 @@
-<h1 align="center">ToDo List (kids design)</h1>
+<h1 align="center">ToDo List (kid's design)</h1>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot](https://github.com/AlesyaSuperfin/To-do-list/blob/main/src/toDoList.jpg)
 
-I created a ToDo List for children to learn how to work with React, and for my child to use this application.
+I created a ToDo List with kid's design to learn how to work with React, and for my children who like create daily tasks-list.
 
-* The project is implemented based on React.
+* I learned how to work with class components in React, access information from input and change the state of an object.
+* The project is based on React.
+* The application shows today's date.
 * Cute design for children and friendly interface.
-* You should implement DRY principles to the rest of your life :smile:
 
-[Link for application] (https://silly-trifle-597836.netlify.app/)
+[Link for application](https://silly-trifle-597836.netlify.app/)
+
+<!-- HOW TO USE -->
+## How To Use
+
+1. Write the task in input field.
+2. Click the button "Create task" or press "Enter" on keyboard.
+3. Click the task to cross it out.
+4. Click the button "Delete List" to clear the list.
